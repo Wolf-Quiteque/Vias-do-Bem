@@ -62,7 +62,7 @@
           "images/home/house-3.jpg",
           "propriedade.html",
           "Casa Lomas de Machalí Machas",
-          "145 Brooklyn Ave, Califonia, New York",
+          "Bloco 145 , Kilamba, Kinaxixi , Luanda",
           "images/avatar/avt-png10.png",
           "Arlene McCoy",
           "$7250,00"
@@ -78,7 +78,7 @@
           "images/home/house-1.jpg",
           "propriedade.html",
           "Casa Lomas de Machalí Machas",
-          "145 Brooklyn Ave, Califonia, New York",
+          "Bloco 145 , Kilamba, Kinaxixi , Luanda",
           "images/avatar/avt-png10.png",
           "Arlene McCoy",
           "$7250,00"
@@ -94,7 +94,7 @@
           "images/home/house-2.jpg",
           "propriedade.html",
           "Casa Lomas de Machalí Machas",
-          "145 Brooklyn Ave, Califonia, New York",
+          "Bloco 145 , Kilamba, Kinaxixi , Luanda",
           "images/avatar/avt-png10.png",
           "Arlene McCoy",
           "$7250,00"
@@ -110,7 +110,7 @@
           "images/home/house-4.jpg",
           "propriedade.html",
           "Casa Lomas de Machalí Machas",
-          "145 Brooklyn Ave, Califonia, New York",
+          "Bloco 145 , Kilamba, Kinaxixi , Luanda",
           "images/avatar/avt-png10.png",
           "Arlene McCoy",
           "$7250,00"
@@ -126,7 +126,7 @@
           "images/home/house-7.jpg",
           "propriedade.html",
           "Casa Lomas de Machalí Machas",
-          "145 Brooklyn Ave, Califonia, New York",
+          "Bloco 145 , Kilamba, Kinaxixi , Luanda",
           "images/avatar/avt-png10.png",
           "Arlene McCoy",
           "$7250,00"
@@ -142,7 +142,7 @@
           "images/home/house-6.jpg",
           "propriedade.html",
           "Casa Lomas de Machalí Machas",
-          "145 Brooklyn Ave, Califonia, New York",
+          "Bloco 145 , Kilamba, Kinaxixi , Luanda",
           "images/avatar/avt-png10.png",
           "Arlene McCoy",
           "$7250,00"
