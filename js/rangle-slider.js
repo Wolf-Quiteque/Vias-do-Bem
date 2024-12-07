@@ -9,7 +9,7 @@ $(document).ready(function () {
   var moneyFormat = wNumb({
     decimals: 0,
     thousand: ",",
-    prefix: "$",
+    prefix: "AOA",
   });
   noUiSlider.create(rangeSlider, {
     start: [100, 650000],
@@ -38,7 +38,7 @@ $(document).ready(function () {
   var moneyFormat = wNumb({
     decimals: 0,
     thousand: ",",
-    postfix: " SqFt",
+    postfix: " m2",
   });
   noUiSlider.create(rangeSlider, {
     start: [500, 1500],
@@ -109,7 +109,7 @@ $(document).ready(function () {
     var moneyFormat = wNumb({
       decimals: 0,
       thousand: ",",
-      postfix: " SqFt",
+      postfix: " m2",
     });
     noUiSlider.create(rangeSlider, {
       start: [500, 1500],
