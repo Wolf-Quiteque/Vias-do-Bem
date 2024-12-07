@@ -64,7 +64,7 @@
           "Casa Lomas de Machalí Machas",
           "Bloco 145 , Kilamba, Kinaxixi , Luanda",
           "images/avatar/avt-png10.png",
-          "Arlene McCoy",
+          "Zayla Jasmine",
           "$7250,00"
         ),
 
@@ -80,7 +80,7 @@
           "Casa Lomas de Machalí Machas",
           "Bloco 145 , Kilamba, Kinaxixi , Luanda",
           "images/avatar/avt-png10.png",
-          "Arlene McCoy",
+          "Zayla Jasmine",
           "$7250,00"
         ),
 
@@ -96,7 +96,7 @@
           "Casa Lomas de Machalí Machas",
           "Bloco 145 , Kilamba, Kinaxixi , Luanda",
           "images/avatar/avt-png10.png",
-          "Arlene McCoy",
+          "Zayla Jasmine",
           "$7250,00"
         ),
 
@@ -112,7 +112,7 @@
           "Casa Lomas de Machalí Machas",
           "Bloco 145 , Kilamba, Kinaxixi , Luanda",
           "images/avatar/avt-png10.png",
-          "Arlene McCoy",
+          "Zayla Jasmine",
           "$7250,00"
         ),
 
@@ -128,7 +128,7 @@
           "Casa Lomas de Machalí Machas",
           "Bloco 145 , Kilamba, Kinaxixi , Luanda",
           "images/avatar/avt-png10.png",
-          "Arlene McCoy",
+          "Zayla Jasmine",
           "$7250,00"
         ),
 
@@ -144,7 +144,7 @@
           "Casa Lomas de Machalí Machas",
           "Bloco 145 , Kilamba, Kinaxixi , Luanda",
           "images/avatar/avt-png10.png",
-          "Arlene McCoy",
+          "Zayla Jasmine",
           "$7250,00"
         ),
 
