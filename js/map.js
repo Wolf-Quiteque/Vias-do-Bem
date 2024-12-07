@@ -60,7 +60,7 @@
       [
         locationData(
           "images/home/house-3.jpg",
-          "property-details-v1.html",
+          "propriedade.html",
           "Casa Lomas de Machalí Machas",
           "145 Brooklyn Ave, Califonia, New York",
           "images/avatar/avt-png10.png",
@@ -76,7 +76,7 @@
       [
         locationData(
           "images/home/house-1.jpg",
-          "property-details-v1.html",
+          "propriedade.html",
           "Casa Lomas de Machalí Machas",
           "145 Brooklyn Ave, Califonia, New York",
           "images/avatar/avt-png10.png",
@@ -92,7 +92,7 @@
       [
         locationData(
           "images/home/house-2.jpg",
-          "property-details-v1.html",
+          "propriedade.html",
           "Casa Lomas de Machalí Machas",
           "145 Brooklyn Ave, Califonia, New York",
           "images/avatar/avt-png10.png",
@@ -108,7 +108,7 @@
       [
         locationData(
           "images/home/house-4.jpg",
-          "property-details-v1.html",
+          "propriedade.html",
           "Casa Lomas de Machalí Machas",
           "145 Brooklyn Ave, Califonia, New York",
           "images/avatar/avt-png10.png",
@@ -124,7 +124,7 @@
       [
         locationData(
           "images/home/house-7.jpg",
-          "property-details-v1.html",
+          "propriedade.html",
           "Casa Lomas de Machalí Machas",
           "145 Brooklyn Ave, Califonia, New York",
           "images/avatar/avt-png10.png",
@@ -140,7 +140,7 @@
       [
         locationData(
           "images/home/house-6.jpg",
-          "property-details-v1.html",
+          "propriedade.html",
           "Casa Lomas de Machalí Machas",
           "145 Brooklyn Ave, Califonia, New York",
           "images/avatar/avt-png10.png",
